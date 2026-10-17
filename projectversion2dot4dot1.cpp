@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 
-    int target == 5;
+    int target = 5;
     int guess;
 
     cout << "Guess the number (1-10): ";
